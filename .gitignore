@@ -27,3 +27,10 @@ node_modules
 .docusaurus
 build
 docs/build
+
+#VS Code settings
+.vscode
+.code-workspace
+
+#task file
+task.json
